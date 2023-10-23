@@ -17,7 +17,7 @@ int main()
     printf("-----------------\n");
     printf("This is task A\n");
 
-    for (i = 10; i >= 0; i -= 1)
+    for (i = 10; i >= 0; i --)
     {
         printf("i=%d\n", i);
     }
